@@ -12,6 +12,8 @@ Handling Activity and Fragment lifecycle apprpriately.
 
 BroadCast Intents.
 
+SharedPreferences.
+
 SQLite Backend.
 
 Content Providers.
